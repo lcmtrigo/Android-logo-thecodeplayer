@@ -1,6 +1,6 @@
 # Android-logo-thecodeplayer
 
-Android logo from thecodeplayer's tutorial made with HTML, CSS, and CSS3 animations.
+Android logo from thecodeplayer's tutorial, made with HTML, CSS, and CSS3 animations.
 
 Codepen link: http://codepen.io/rmtrigo/pen/pJoxym
 
